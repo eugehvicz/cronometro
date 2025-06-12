@@ -29,6 +29,8 @@ function pausarCronometro(){
 }
 //função resetar
 
+
+
 function resetarCronometro(){
     pausarCronometro()
     segundos=0
