@@ -1,9 +1,14 @@
 
 body{
+    height: 100vh;
     font-family: Edu NSW ACT Hand cursive;
-    text-align: center;
+    text-align: auto;
     margin-top: 50px;
     background-color: #f5b7e7;
+    background-image: url('./images/caption.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 #display{
     font-size: 48px;
